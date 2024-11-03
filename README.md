@@ -50,7 +50,8 @@ I will develop this project in the future with new features, stay tuned!
 ## **Website Preview**
 
 _Home Page_
-![jobseeker](https://github.com/user-attachments/assets/43de914c-a3b5-418a-a146-a581c594fd42)
+![jobseeker-home](https://github.com/user-attachments/assets/57c3deaf-012b-4315-a86f-14bee1674c0d)
+
 
 _Jobs Page_
 ![image](https://github.com/user-attachments/assets/49e92b06-b594-4e8f-90ee-00e2a6bd5620)
@@ -59,4 +60,5 @@ _Job Details Page_
 ![image](https://github.com/user-attachments/assets/97e2b6d7-8a06-4b07-a9ea-0e2d3d63fad0)
 
 _Add Job Page_
-![addjob](https://github.com/user-attachments/assets/80043755-1fc4-4ae9-8c3d-635a82c3027a)
+![addjob](https://github.com/user-attachments/assets/1b5c9d20-3cc4-421c-92d4-02d9e94cc793)
+
