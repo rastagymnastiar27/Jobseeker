@@ -7,6 +7,11 @@ This is a mini project built using React.js, Tailwind CSS, and Vite. The Jobseek
 - Vite
 - JSON
 
+## **Packages Used**
+react-icons: For adding icons throughout the UI.
+react-toastify: To display notifications and alerts.
+react-router-dom: For client-side routing.
+json-server: To create a mock REST API using a JSON file.
 
 ## **Features**
 - View Jobs: Browse available job listings.
@@ -14,10 +19,27 @@ This is a mini project built using React.js, Tailwind CSS, and Vite. The Jobseek
 - Add New Jobs: Easily create and add new job postings.
 - Delete Jobs: Remove job postings from the list.
 
-
 ## **Data Source**
 The website uses a JSON API to handle and manage job data. [JSON file](https://github.com/rastagymnastiar27/Jobseeker/blob/main/src/jobs.json)
 
+## **To-Do Guide for Demo**
+Follow these steps to run the project on your local machine:
+
+1. **Open the project in your code editor** (e.g., VS Code).
+2. **Open the terminal** and start the JSON server:
+   
+   ````bash
+   npm run server
+   
+3. **Install the necessary packages:**
+   
+    ````bash
+    npm install
+
+4. **Run the project:**
+
+    ````bash
+    npm run dev
 
 ## **Note**
 Since this is a mini project, it does not include authentication. This means that any user can read, add, edit, or delete jobs without the need for login credentials. The website is designed for simple interaction and testing purposes.
