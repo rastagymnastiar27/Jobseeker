@@ -60,5 +60,6 @@ _Job Details Page_
 ![image](https://github.com/user-attachments/assets/97e2b6d7-8a06-4b07-a9ea-0e2d3d63fad0)
 
 _Add Job Page_
-![addjob](https://github.com/user-attachments/assets/1b5c9d20-3cc4-421c-92d4-02d9e94cc793)
+![addjob](https://github.com/user-attachments/assets/d68f1685-0b9a-4a35-b2df-175d1016dc3e)
+
 
