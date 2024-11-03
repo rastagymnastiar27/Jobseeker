@@ -8,10 +8,10 @@ This is a mini project built using React.js, Tailwind CSS, and Vite. The Jobseek
 - JSON
 
 ## **Packages Used**
-react-icons: For adding icons throughout the UI.
-react-toastify: To display notifications and alerts.
-react-router-dom: For client-side routing.
-json-server: To create a mock REST API using a JSON file.
+- react-icons: For adding icons throughout the UI.
+- react-toastify: To display notifications and alerts.
+- react-router-dom: For client-side routing.
+- json-server: To create a mock REST API using a JSON file.
 
 ## **Features**
 - View Jobs: Browse available job listings.
