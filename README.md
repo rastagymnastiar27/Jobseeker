@@ -22,7 +22,7 @@ This is a mini project built using React.js, Tailwind CSS, and Vite. The Jobseek
 ## **Data Source**
 The website uses a JSON API to handle and manage job data. [JSON file](https://github.com/rastagymnastiar27/Jobseeker/blob/main/src/jobs.json)
 
-## **To-Do Guide for Demo**
+## **TO-D0 for Demo**
 Follow these steps to run the project on your local machine:
 
 1. **Open the project in your code editor** (e.g., VS Code).
