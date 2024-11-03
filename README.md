@@ -22,6 +22,8 @@ The website uses a JSON API to handle and manage job data. [JSON file](https://g
 ## **Note**
 Since this is a mini project, it does not include authentication. This means that any user can read, add, edit, or delete jobs without the need for login credentials. The website is designed for simple interaction and testing purposes.
 
+I will develop this project in the future with new features, stay tuned!
+
 
 ## **Website Preview**
 
