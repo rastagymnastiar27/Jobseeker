@@ -83,6 +83,175 @@
         "contactEmail": "contact@ipsumlorem.com",
         "contactPhone": "555-555-5555"
       }
+    },
+    {
+      "id": "7",
+      "title": "Back-End Developer (Node.js)",
+      "type": "Full-Time",
+      "description": "Seeking a skilled Back-End Developer with experience in Node.js and Express to join our team in Austin, TX. Your role will involve developing efficient server-side logic and integrating front-end elements.",
+      "location": "Austin, TX",
+      "salary": "$80K - $90K",
+      "company": {
+        "name": "CodeStream Solutions",
+        "description": "CodeStream Solutions specializes in cloud-based applications and enterprise software. We value innovation and offer a supportive environment for developers to thrive.",
+        "contactEmail": "contact@codestream.com",
+        "contactPhone": "555-555-1234"
+      }
+    },
+    {
+      "id": "8",
+      "title": "Full Stack Developer (MERN)",
+      "type": "Full-Time",
+      "description": "We are looking for a Full Stack Developer proficient in MongoDB, Express, React, and Node.js to join our Chicago, IL team. Collaborate with our engineers to design scalable and maintainable applications.",
+      "location": "Chicago, IL",
+      "salary": "$85K - $95K",
+      "company": {
+        "name": "TechVantage Inc.",
+        "description": "TechVantage Inc. is a fast-paced software company focusing on innovative web solutions. Our diverse projects range from healthcare to fintech applications.",
+        "contactEmail": "contact@techvantage.com",
+        "contactPhone": "555-555-2345"
+      }
+    },
+    {
+      "id": "9",
+      "title": "Front-End Developer (Vue.js)",
+      "type": "Full-Time",
+      "description": "Join our New York, NY team as a Front-End Developer specializing in Vue.js. You’ll be responsible for creating visually appealing and user-friendly applications.",
+      "location": "New York, NY",
+      "salary": "$75K - $85K",
+      "company": {
+        "name": "BrightCode Labs",
+        "description": "BrightCode Labs is a startup focused on SaaS solutions. We encourage creativity and offer a vibrant work environment in the heart of NYC.",
+        "contactEmail": "contact@brightcode.com",
+        "contactPhone": "555-555-3456"
+      }
+    },
+    {
+      "id": "10",
+      "title": "Mobile Developer (Flutter)",
+      "type": "Full-Time",
+      "description": "Exciting opportunity for a Mobile Developer experienced in Flutter to join our remote-first team. Work on creating high-performance mobile applications for Android and iOS.",
+      "location": "Remote",
+      "salary": "$90K - $100K",
+      "company": {
+        "name": "Globex Mobile",
+        "description": "Globex Mobile is a leader in mobile app development. We believe in a flexible and inclusive work environment that promotes creativity and innovation.",
+        "contactEmail": "contact@globexmobile.com",
+        "contactPhone": "555-555-4567"
+      }
+    },
+    {
+      "id": "11",
+      "title": "DevOps Engineer",
+      "type": "Full-Time",
+      "description": "We're hiring a DevOps Engineer to streamline our CI/CD pipeline and manage our AWS cloud infrastructure. Join us in Denver, CO and help improve our deployment processes.",
+      "location": "Denver, CO",
+      "salary": "$95K - $105K",
+      "company": {
+        "name": "CloudWorks Inc.",
+        "description": "CloudWorks Inc. specializes in cloud solutions and enterprise DevOps strategies. Our team values reliability, scalability, and performance.",
+        "contactEmail": "contact@cloudworks.com",
+        "contactPhone": "555-555-5678"
+      }
+    },
+    {
+      "id": "12",
+      "title": "Back-End Developer (Python/Django)",
+      "type": "Part-Time",
+      "description": "Looking for a Back-End Developer with experience in Python and Django for our part-time role in Raleigh, NC. You will work on API development and database management.",
+      "location": "Raleigh, NC",
+      "salary": "$50K - $60K",
+      "company": {
+        "name": "PyDev Solutions",
+        "description": "PyDev Solutions is a tech firm focusing on education technology. We aim to create accessible software solutions for students and teachers.",
+        "contactEmail": "contact@pydev.com",
+        "contactPhone": "555-555-6789"
+      }
+    },
+    {
+      "id": "13",
+      "title": "Full Stack Developer (Laravel & Vue.js)",
+      "type": "Full-Time",
+      "description": "We are seeking a Full Stack Developer experienced in Laravel and Vue.js to join our Los Angeles, CA team. Develop robust applications and contribute to our tech solutions.",
+      "location": "Los Angeles, CA",
+      "salary": "$85K - $95K",
+      "company": {
+        "name": "VueWave Tech",
+        "description": "VueWave Tech delivers powerful and user-friendly applications for the retail industry. We pride ourselves on our cutting-edge solutions and enthusiastic team.",
+        "contactEmail": "contact@vuewave.com",
+        "contactPhone": "555-555-7890"
+      }
+    },
+    {
+      "id": "14",
+      "title": "Data Engineer",
+      "type": "Full-Time",
+      "description": "We are hiring a Data Engineer to work with our team in San Francisco, CA. You’ll design and implement data pipelines, ensuring data is clean, structured, and usable.",
+      "location": "San Francisco, CA",
+      "salary": "$120K - $130K",
+      "company": {
+        "name": "DataFlow Experts",
+        "description": "DataFlow Experts is a consulting firm specializing in big data and analytics. We provide cutting-edge data solutions for large-scale enterprises.",
+        "contactEmail": "contact@dataflow.com",
+        "contactPhone": "555-555-8901"
+      }
+    },
+    {
+      "id": "15",
+      "title": "Machine Learning Engineer",
+      "type": "Full-Time",
+      "description": "Seeking a Machine Learning Engineer to join our team in Seattle, WA. Work on developing algorithms and models for our AI-driven platform.",
+      "location": "Seattle, WA",
+      "salary": "$110K - $120K",
+      "company": {
+        "name": "AIML Tech Hub",
+        "description": "AIML Tech Hub is a cutting-edge AI and ML research company. We’re focused on building intelligent solutions to complex problems.",
+        "contactEmail": "contact@aimlhub.com",
+        "contactPhone": "555-555-9012"
+      }
+    },
+    {
+      "id": "16",
+      "title": "Front-End Developer (Svelte)",
+      "type": "Full-Time",
+      "description": "Exciting opportunity for a Front-End Developer skilled in Svelte to join our tech-savvy team in Las Vegas, NV. Help us create smooth, fast, and efficient web applications.",
+      "location": "Las Vegas, NV",
+      "salary": "$70K - $80K",
+      "company": {
+        "name": "NextGen Creators",
+        "description": "NextGen Creators is a web development company that embraces new and emerging technologies to provide groundbreaking solutions.",
+        "contactEmail": "contact@nextgen.com",
+        "contactPhone": "555-555-0123"
+      }
+    },
+    {
+      "id": "17",
+      "title": "iOS Developer (Swift)",
+      "type": "Full-Time",
+      "description": "Join our Silicon Valley-based team as an iOS Developer. You’ll work on developing and optimizing our mobile app using Swift, focusing on performance and user experience.",
+      "location": "Silicon Valley, CA",
+      "salary": "$110K - $120K",
+      "company": {
+        "name": "AppCore Innovations",
+        "description": "AppCore Innovations specializes in mobile app development for iOS. We create apps that are reliable, innovative, and designed for optimal performance.",
+        "contactEmail": "contact@appcore.com",
+        "contactPhone": "555-555-1234"
+      }
+    },
+    {
+      "id": "18",
+      "title": "Android Developer (Kotlin)",
+      "type": "Full-Time",
+      "description": "We're looking for an Android Developer proficient in Kotlin to join our team in Dallas, TX. Your role will focus on creating and improving our Android apps.",
+      "location": "Dallas, TX",
+      "salary": "$85K - $95K",
+      "company": {
+        "name": "KotlinWorks",
+        "description": "KotlinWorks is a tech company dedicated to building top-notch Android applications. We strive for innovation and quality in every product we develop.",
+        "contactEmail": "contact@kotlinworks.com",
+        "contactPhone": "555-555-2345"
+      }
     }
+    
   ]
 }
