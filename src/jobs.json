@@ -251,7 +251,34 @@
         "contactEmail": "contact@kotlinworks.com",
         "contactPhone": "555-555-2345"
       }
-    }
-    
+    },
+    {
+      "id": "19",
+      "title": "QA Engineer (Automation)",
+      "type": "Full-Time",
+      "description": "We are seeking a QA Engineer specializing in test automation to join our team in Orlando, FL. Ensure the quality and reliability of our software through automated testing frameworks.",
+      "location": "Orlando, FL",
+      "salary": "$75K - $85K",
+      "company": {
+        "name": "AutoTest Labs",
+        "description": "AutoTest Labs is dedicated to providing reliable and scalable software testing solutions for clients in various industries. Our team is passionate about quality and innovation.",
+        "contactEmail": "contact@autotestlabs.com",
+        "contactPhone": "555-555-3456"
+      }
+    },
+    {
+      "id": "20",
+      "title": "Cybersecurity Analyst",
+      "type": "Full-Time",
+      "description": "Join our security team as a Cybersecurity Analyst in Washington, D.C. Monitor and defend against cyber threats, analyze security incidents, and implement security measures.",
+      "location": "Washington, D.C.",
+      "salary": "$90K - $100K",
+      "company": {
+        "name": "SecureTech Solutions",
+        "description": "SecureTech Solutions is at the forefront of cybersecurity, providing protection for businesses against evolving cyber threats. We foster a culture of continuous learning and improvement.",
+        "contactEmail": "contact@securetech.com",
+        "contactPhone": "555-555-4567"
+      }
+    } 
   ]
 }
